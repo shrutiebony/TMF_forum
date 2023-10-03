@@ -1,2 +1,2 @@
 # TMF_forum_BackEnd
-Tool for TMF Forum
+A tool in the telecomm domain using which we can convert any API request's and response to a TMF compliant API
